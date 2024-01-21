@@ -9,5 +9,10 @@ public class HolaMundo {
         
         //Este parte del codigo nos permite mandar por consola la cadena Hola Mundo
         System.out.println("Hola Mundo");
+        
+        System.out.println("Declarando e imprimiendo una variable:");
+        System.out.println("int miVariableEntera = 10");
+        int miVariableEntera = 10;
+        System.out.println("miVariableEntera = " + miVariableEntera);
     }
 }
