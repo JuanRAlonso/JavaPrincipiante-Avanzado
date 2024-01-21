@@ -20,5 +20,13 @@ public class HolaMundo {
         
         //Aquí estamos imprimiendo la variable
         System.out.println("miVariableEntera = " + miVariableEntera);
+        
+        
+        //Definiendo una variable de tipo String
+        //nota: El tipo String es una clase de java por lo que también puede contener métodos
+        String niVariableCadena = "Hola mundo, esta variable es de tipo cadena";
+        
+        //Aqui estamos imprimiendo la variable de tipo cadena
+        System.out.println("niVariableCadena = " + niVariableCadena);
     }
 }
