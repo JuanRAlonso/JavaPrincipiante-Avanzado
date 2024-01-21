@@ -11,8 +11,14 @@ public class HolaMundo {
         System.out.println("Hola Mundo");
         
         System.out.println("Declarando e imprimiendo una variable:");
+        
+        //Aquí solamente estamos imprimiendo un texto
         System.out.println("int miVariableEntera = 10");
+        
+        //Aquí estamos declarando la variable con el nombremiVariableEntera
         int miVariableEntera = 10;
+        
+        //Aquí estamos imprimiendo la variable
         System.out.println("miVariableEntera = " + miVariableEntera);
     }
 }
