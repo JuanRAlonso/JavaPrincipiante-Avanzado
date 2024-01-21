@@ -24,9 +24,9 @@ public class HolaMundo {
         
         //Definiendo una variable de tipo String
         //nota: El tipo String es una clase de java por lo que también puede contener métodos
-        String niVariableCadena = "Hola mundo, esta variable es de tipo cadena";
+        String miVariableCadena = "Hola mundo, esta variable es de tipo cadena";
         
         //Aqui estamos imprimiendo la variable de tipo cadena
-        System.out.println("niVariableCadena = " + niVariableCadena);
+        System.out.println("miVariableCadena = " + miVariableCadena);
     }
 }
